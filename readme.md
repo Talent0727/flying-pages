@@ -6,6 +6,7 @@
 
 > Flying Pages prefetch pages before the user click on links, making them load instantly
 
+
 ## Quick Links
 
 - Demo: Open [https://wpspeedmatters.com](https://wpspeedmatters.com) and click on any post
